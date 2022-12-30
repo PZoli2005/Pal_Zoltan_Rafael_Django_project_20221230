@@ -1,0 +1,26 @@
+2022-12-30 16:29:41.373 [info] Extension host with pid 114 started
+2022-12-30 16:29:41.475 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2022-12-30 16:29:41.728 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+2022-12-30 16:29:41.938 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2022-12-30 16:29:42.831 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2022-12-30 16:29:42.846 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2022-12-30 16:29:42.961 [info] Eager extensions activated
+2022-12-30 16:29:43.052 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2022-12-30 16:29:43.054 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2022-12-30 16:29:43.063 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2022-12-30 16:29:43.813 [error] Error: Workspace not trusted
+	at w.createActivatedEnvironment (/home/zoltan/.var/app/com.visualstudio.code/data/vscode/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:7:79767)
+	at /home/zoltan/.var/app/com.visualstudio.code/data/vscode/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:7:100935
+	at t.tracing (/home/zoltan/.var/app/com.visualstudio.code/data/vscode/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:7:125568)
+	at i.value (/home/zoltan/.var/app/com.visualstudio.code/data/vscode/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:7:100915)
+	at r.getPackageInformation (/home/zoltan/.var/app/com.visualstudio.code/data/vscode/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:17:42107)
+	at /home/zoltan/.var/app/com.visualstudio.code/data/vscode/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:7:100935
+	at t.tracing (/home/zoltan/.var/app/com.visualstudio.code/data/vscode/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:7:125568)
+	at i.value (/home/zoltan/.var/app/com.visualstudio.code/data/vscode/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:7:100915)
+	at r.trackInterpreterPackages (/home/zoltan/.var/app/com.visualstudio.code/data/vscode/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:17:41743)
+	at r.trackPackagesInternal (/home/zoltan/.var/app/com.visualstudio.code/data/vscode/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:17:41556)
+	at r.trackPackages (/home/zoltan/.var/app/com.visualstudio.code/data/vscode/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:17:40124)
+	at m.trackPackagesOfActiveInterpreter (/home/zoltan/.var/app/com.visualstudio.code/data/vscode/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2519048)
+	at async m.trackUponActivation (/home/zoltan/.var/app/com.visualstudio.code/data/vscode/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2518807)
+2022-12-30 16:38:43.587 [info] Extension host terminating: renderer closed the MessagePort
+2022-12-30 16:38:43.601 [info] Extension host with pid 114 exiting with code 0

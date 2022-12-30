@@ -1,0 +1,43 @@
+Visual Studio Code (1.74.1, undefined, desktop)
+Jupyter Extension Version: 2022.11.1003412109.
+Python Extension Version: 2022.20.1.
+No workspace folder opened.
+info 16:53:29.934: ZMQ install verified.
+User belongs to experiment group 'jupyterTest'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+info 16:53:30.852: LSP Notebooks experiment is enabled
+error 16:53:31.048: Create activated Env, Class name = w, completed in 0ms, has a falsy return value, Arg 1: {"allowEnvironmentFetchExceptions":true,"interpreter":{"id":"/bin/python","sysPrefix":"/usr","displayPath":{"$mid":1,"path":"/bin/python","scheme":"file"},"envName":"","uri":{"$mid":1,"fsPath":"/bin/python","external":"file:///bin/python","path":"/bin/python","scheme":"file"},"displayName":"","envType":"Unknown","version":{"major":3,"minor":10,"patch":6,"raw":"3.10.6 (main, Nov 10 2011, 15:00:00) [GCC 12.1.0]"}}} [Error: Workspace not trusted
+	at w.createActivatedEnvironment (/home/zoltan/.var/app/com.visualstudio.code/data/vscode/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:7:79767)
+	at /home/zoltan/.var/app/com.visualstudio.code/data/vscode/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:7:100935
+	at t.tracing (/home/zoltan/.var/app/com.visualstudio.code/data/vscode/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:7:125568)
+	at i.value (/home/zoltan/.var/app/com.visualstudio.code/data/vscode/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:7:100915)
+	at r.getPackageInformation (/home/zoltan/.var/app/com.visualstudio.code/data/vscode/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:17:42107)
+	at /home/zoltan/.var/app/com.visualstudio.code/data/vscode/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:7:100935
+	at t.tracing (/home/zoltan/.var/app/com.visualstudio.code/data/vscode/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:7:125568)
+	at i.value (/home/zoltan/.var/app/com.visualstudio.code/data/vscode/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:7:100915)
+	at r.trackInterpreterPackages (/home/zoltan/.var/app/com.visualstudio.code/data/vscode/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:17:41743)
+	at r.trackPackagesInternal (/home/zoltan/.var/app/com.visualstudio.code/data/vscode/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:17:41556)
+	at r.trackPackages (/home/zoltan/.var/app/com.visualstudio.code/data/vscode/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:17:40124)
+	at m.trackPackagesOfActiveInterpreter (/home/zoltan/.var/app/com.visualstudio.code/data/vscode/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2519048)
+	at async m.trackUponActivation (/home/zoltan/.var/app/com.visualstudio.code/data/vscode/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2518807)]
+error 16:53:31.049: interpreterPackages getPackageInformation, Class name = r, completed in 1ms, has a falsy return value, Arg 1: {"interpreter":{"id":"/bin/python","sysPrefix":"/usr","displayPath":{"$mid":1,"path":"/bin/python","scheme":"file"},"envName":"","uri":{"$mid":1,"fsPath":"/bin/python","external":"file:///bin/python","path":"/bin/python","scheme":"file"},"displayName":"","envType":"Unknown","version":{"major":3,"minor":10,"patch":6,"raw":"3.10.6 (main, Nov 10 2011, 15:00:00) [GCC 12.1.0]"}}} [Error: Workspace not trusted
+	at w.createActivatedEnvironment (/home/zoltan/.var/app/com.visualstudio.code/data/vscode/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:7:79767)
+	at /home/zoltan/.var/app/com.visualstudio.code/data/vscode/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:7:100935
+	at t.tracing (/home/zoltan/.var/app/com.visualstudio.code/data/vscode/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:7:125568)
+	at i.value (/home/zoltan/.var/app/com.visualstudio.code/data/vscode/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:7:100915)
+	at r.getPackageInformation (/home/zoltan/.var/app/com.visualstudio.code/data/vscode/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:17:42107)
+	at /home/zoltan/.var/app/com.visualstudio.code/data/vscode/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:7:100935
+	at t.tracing (/home/zoltan/.var/app/com.visualstudio.code/data/vscode/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:7:125568)
+	at i.value (/home/zoltan/.var/app/com.visualstudio.code/data/vscode/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:7:100915)
+	at r.trackInterpreterPackages (/home/zoltan/.var/app/com.visualstudio.code/data/vscode/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:17:41743)
+	at r.trackPackagesInternal (/home/zoltan/.var/app/com.visualstudio.code/data/vscode/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:17:41556)
+	at r.trackPackages (/home/zoltan/.var/app/com.visualstudio.code/data/vscode/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:17:40124)
+	at m.trackPackagesOfActiveInterpreter (/home/zoltan/.var/app/com.visualstudio.code/data/vscode/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2519048)
+	at async m.trackUponActivation (/home/zoltan/.var/app/com.visualstudio.code/data/vscode/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2518807)]
+info 16:57:53.649: Shutting down notebooks for d5bf751d-6f33-44ec-a4e7-c5f898b5d5fa
+info 16:57:53.649: Disposing HostJupyterExecution 07b61cf8-1c0f-417a-8e6e-4ab763078fe5
+info 16:57:53.649: Disposing super HostJupyterExecution 07b61cf8-1c0f-417a-8e6e-4ab763078fe5
+info 16:57:53.649: Disposing HostJupyterExecution 07b61cf8-1c0f-417a-8e6e-4ab763078fe5
+info 16:57:53.649: Finished disposing HostJupyterExecution  07b61cf8-1c0f-417a-8e6e-4ab763078fe5
+info 16:57:53.672: Cleaning up server cache 07b61cf8-1c0f-417a-8e6e-4ab763078fe5
+info 16:57:53.673: Finished disposing HostJupyterExecution  07b61cf8-1c0f-417a-8e6e-4ab763078fe5

@@ -1,0 +1,11 @@
+LSP Notebooks experiment is enabled
+LSP Notebooks interactive window support is enabled
+> conda info --json
+Python interpreter path: /bin/python
+> ./venv/bin/python ~/.var/app/com.visualstudio.code/data/vscode/extensions/ms-python.python-2022.20.1/pythonFiles/get_output_via_markers.py ~/.var/app/com.visualstudio.code/data/vscode/extensions/ms-python.python-2022.20.1/pythonFiles/interpreterInfo.py
+> /bin/python ~/.var/app/com.visualstudio.code/data/vscode/extensions/ms-python.python-2022.20.1/pythonFiles/get_output_via_markers.py ~/.var/app/com.visualstudio.code/data/vscode/extensions/ms-python.python-2022.20.1/pythonFiles/interpreterInfo.py
+> /sbin/python ~/.var/app/com.visualstudio.code/data/vscode/extensions/ms-python.python-2022.20.1/pythonFiles/get_output_via_markers.py ~/.var/app/com.visualstudio.code/data/vscode/extensions/ms-python.python-2022.20.1/pythonFiles/interpreterInfo.py
+> /usr/bin/python ~/.var/app/com.visualstudio.code/data/vscode/extensions/ms-python.python-2022.20.1/pythonFiles/get_output_via_markers.py ~/.var/app/com.visualstudio.code/data/vscode/extensions/ms-python.python-2022.20.1/pythonFiles/interpreterInfo.py
+> /usr/sbin/python ~/.var/app/com.visualstudio.code/data/vscode/extensions/ms-python.python-2022.20.1/pythonFiles/get_output_via_markers.py ~/.var/app/com.visualstudio.code/data/vscode/extensions/ms-python.python-2022.20.1/pythonFiles/interpreterInfo.py
+Starting Pylance language server.
+Python interpreter path: ./venv/bin/python

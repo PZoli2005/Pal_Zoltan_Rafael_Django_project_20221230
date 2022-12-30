@@ -1,0 +1,383 @@
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/zoltan/.Xauthority
+/etc/X11/Xsession.d/30x11-common_xresources: line 16: has_option: command not found
+/etc/X11/Xsession.d/75dbus_dbus-launch: line 9: has_option: command not found
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+/etc/X11/Xsession.d/90x11-common_ssh-agent: line 9: has_option: command not found
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting LANGUAGE=en_US
+dbus-update-activation-environment: setting LC_ADDRESS=hu_HU.UTF-8
+dbus-update-activation-environment: setting LC_NAME=hu_HU.UTF-8
+dbus-update-activation-environment: setting DESKTOP_SESSION=cinnamon
+dbus-update-activation-environment: setting LC_MONETARY=hu_HU.UTF-8
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting PWD=/home/zoltan
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=cinnamon
+dbus-update-activation-environment: setting LOGNAME=zoltan
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting XAUTHORITY=/home/zoltan/.Xauthority
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/zoltan
+dbus-update-activation-environment: setting GDM_LANG=en_US
+dbus-update-activation-environment: setting HOME=/home/zoltan
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting LC_PAPER=hu_HU.UTF-8
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting LC_IDENTIFICATION=hu_HU.UTF-8
+dbus-update-activation-environment: setting USER=zoltan
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting LC_TELEPHONE=hu_HU.UTF-8
+dbus-update-activation-environment: setting LC_MEASUREMENT=hu_HU.UTF-8
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting GTK3_MODULES=xapp-gtk3-module
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/zoltan/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting GDMSESSION=cinnamon
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting LC_NUMERIC=hu_HU.UTF-8
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+[cinnamon-settings-daemon-smartcard] Failed to start: no suitable smartcard driver could be found
+[cinnamon-settings-daemon-smartcard] Failed to start: no suitable smartcard driver could be found
+
+** (csd-color:1281): WARNING **: 12:17:52.038: failed to get edid: unable to get EDID for output
+
+** (csd-color:1281): WARNING **: 12:17:52.082: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+mutter-Message: 12:17:53.871: Enabling experimental feature 'x11-randr-fractional-scaling'
+
+** (csd-color:1281): WARNING **: 12:17:54.504: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:1281): WARNING **: 12:17:54.508: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Gjs-Message: 12:17:54.808: Profiler is disabled. Not setting up signals.
+Gjs-Message: 12:17:55.416: JS LOG: About to start Cinnamon
+Gjs-Message: 12:17:55.869: JS LOG: [LookingGlass/info] Cinnamon.AppSystem.get_default() started in 448 ms
+Gjs-Message: 12:17:55.888: JS LOG: [LookingGlass/info] loading user theme: /usr/share/themes/Mint-Y-Dark-Grey/cinnamon/cinnamon.css
+Gjs-Message: 12:17:55.918: JS LOG: [LookingGlass/info] added icon directory: /usr/share/themes/Mint-Y-Dark-Grey/cinnamon
+
+(cinnamon:1386): Gjs-WARNING **: 12:17:55.937: Some code accessed the property 'UiActor' on the module 'layout'. That property was defined with 'let' or 'const' inside the module. This was previously supported, but is not correct according to the ES6 standard. Any symbols to be exported from a module must be defined with 'var'. The property access will work as previously for the time being, but please fix your code anyway.
+Gjs-Message: 12:17:56.232: JS LOG: [LookingGlass/info] loaded at Fri Dec 30 2022 12:17:56 GMT+0100 (Central European Standard Time)
+Gjs-Message: 12:17:56.232: JS LOG: Cinnamon started at Fri Dec 30 2022 12:17:56 GMT+0100 (Central European Standard Time)
+Gjs-Message: 12:17:56.234: JS LOG: GPU offload supported: false
+Gjs-Message: 12:17:56.266: JS LOG: [LookingGlass/info] ExtensionSystem started in 0 ms
+Gjs-Message: 12:17:56.267: JS LOG: [LookingGlass/info] DeskletManager started in 1 ms
+Gjs-Message: 12:17:56.267: JS LOG: [LookingGlass/info] SearchProviderManager started in 1 ms
+Gjs-Message: 12:17:56.534: JS LOG: [LookingGlass/info] Loaded applet favorites@cinnamon.org in 107 ms
+Gjs-Message: 12:17:56.652: JS LOG: [LookingGlass/info] Loaded applet keyboard@cinnamon.org in 118 ms
+Gjs-Message: 12:17:56.709: JS LOG: [LookingGlass/info] Role locked: notifications
+Gjs-Message: 12:17:56.878: JS LOG: [LookingGlass/info] Loaded applet notifications@cinnamon.org in 226 ms
+vmware-user: could not open /proc/fs/vmblock/dev
+Gjs-Message: 12:17:57.218: JS LOG: [LookingGlass/info] Role locked: panellauncher
+Gjs-Message: 12:17:57.219: JS LOG: [LookingGlass/info] Role locked: windowattentionhandler
+Gjs-Message: 12:17:57.232: JS LOG: [LookingGlass/info] Loaded applet grouped-window-list@cinnamon.org in 346 ms
+Error: /usr/bin/vmtoolsd must be run inside a virtual machine on a VMware hypervisor product.
+Gjs-Message: 12:17:57.239: JS LOG: [LookingGlass/info] Loaded applet separator@cinnamon.org in 7 ms
+Gjs-Message: 12:17:57.248: JS LOG: [LookingGlass/info] Loaded applet removable-drives@cinnamon.org in 9 ms
+Gjs-Message: 12:17:57.253: JS LOG: [LookingGlass/info] Role locked: tray
+Gjs-Message: 12:17:57.283: JS LOG: [LookingGlass/info] Loaded applet systray@cinnamon.org in 35 ms
+Gjs-Message: 12:17:57.375: JS LOG: [LookingGlass/info] Loaded applet cornerbar@cinnamon.org in 92 ms
+Gjs-Message: 12:17:57.739: JS LOG: [LookingGlass/info] Loaded applet calendar@cinnamon.org in 364 ms
+Gjs-Message: 12:17:57.835: JS LOG: [LookingGlass/info] Loaded applet printers@cinnamon.org in 95 ms
+Gjs-Message: 12:17:57.848: JS LOG: [LookingGlass/info] Loaded applet xapp-status@cinnamon.org in 12 ms
+blueman-applet 12.17.58 WARNING  PluginManager:151 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+blueman-applet 12.17.58 WARNING  PluginManager:151 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+Gjs-Message: 12:17:58.666: JS LOG: [LookingGlass/info] Loaded applet power@cinnamon.org in 818 ms
+Gjs-Message: 12:17:58.777: JS LOG: [LookingGlass/info] Loaded applet network@cinnamon.org in 111 ms
+Gjs-Message: 12:17:58.904: JS LOG: [LookingGlass/info] Hiding XAppStatusIcon (we have an applet): nm-applet
+blueman-applet 12.17.58 WARNING  DiscvManager:119 update_menuitems: warning: Adapter is None
+Gjs-Message: 12:17:59.063: JS LOG: [LookingGlass/info] Loaded applet sound@cinnamon.org in 286 ms
+
+** (csd-power:1291): CRITICAL **: 12:17:59.260: abs_to_percentage: assertion 'max > min' failed
+Gjs-Message: 12:17:59.584: JS LOG: [LookingGlass/info] Loaded applet menu@cinnamon.org in 521 ms
+Gjs-Message: 12:17:59.584: JS LOG: [LookingGlass/info] AppletManager started in 3349 ms
+Gjs-Message: 12:17:59.591: JS LOG: [LookingGlass/info] Cinnamon took 4174 ms to start
+Gjs-Message: 12:17:59.601: JS LOG: Unknown network device type, is 14
+** Message: 12:18:01.438: nemo-desktop: session is cinnamon, establishing proxy
+cinnamon-session[1012]: WARNING: t+12,20522s: Detected that screensaver has appeared on the bus
+Gjs-Message: 12:18:04.331: JS LOG: Enabling WindowAttentionHandler
+Gjs-Message: 12:18:04.363: JS LOG: calendar@cinnamon.org: Calendar events supported.
+Window manager warning: launch-app-key-7 - Overwriting existing binding of keysym 37 with keysym 60 (keycode 10).
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:1332: DeprecationWarning: Gdk.threads_init is deprecated
+  Gdk.threads_init()
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:1704: DeprecationWarning: Gdk.threads_enter is deprecated
+  Gdk.threads_enter()
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:770: DeprecationWarning: Gdk.threads_leave is deprecated
+  Gdk.threads_leave()
+Gjs-Message: 12:18:19.716: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: mintUpdate.py (:1.70/org/x/StatusIcon/Icon)
+flatpak-update-worker (WARN): cache not valid, refreshing
+cinnamon-session[1012]: WARNING: t+42,28193s: Detected that screensaver has left the bus
+Gjs-Message: 12:18:38.007: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: mintreport (:1.75/org/x/StatusIcon/Icon)
+Gjs-Message: 12:18:38.014: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: process-monitor (:1.75/org/x/StatusIcon/Icon_1)
+flatpak-update-worker (WARN): cache not valid, refreshing
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/mintcommon/installer/_flatpak.py", line 653, in on_transaction_ready
+    self.task.call_info_ready_callback()
+  File "/usr/lib/python3/dist-packages/mintcommon/installer/installer.py", line 162, in call_info_ready_callback
+    self.info_ready_callback(self)
+  File "/usr/lib/linuxmint/mintUpdate/flatpak-update-worker.py", line 89, in _fetch_task_ready
+    self._process_fetch_task(task)
+  File "/usr/lib/linuxmint/mintUpdate/flatpak-update-worker.py", line 104, in _process_fetch_task
+    ops = trans.get_operations()
+AttributeError: 'NoneType' object has no attribute 'get_operations'
+Error in sys.excepthook:
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/apport_python_hook.py", line 153, in apport_excepthook
+    with os.fdopen(os.open(pr_filename,
+FileNotFoundError: [Errno 2] No such file or directory: '/var/crash/_usr_lib_linuxmint_mintUpdate_flatpak-update-worker.py.1000.crash'
+
+Original exception was:
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/mintcommon/installer/_flatpak.py", line 653, in on_transaction_ready
+    self.task.call_info_ready_callback()
+  File "/usr/lib/python3/dist-packages/mintcommon/installer/installer.py", line 162, in call_info_ready_callback
+    self.info_ready_callback(self)
+  File "/usr/lib/linuxmint/mintUpdate/flatpak-update-worker.py", line 89, in _fetch_task_ready
+    self._process_fetch_task(task)
+  File "/usr/lib/linuxmint/mintUpdate/flatpak-update-worker.py", line 104, in _process_fetch_task
+    ops = trans.get_operations()
+AttributeError: 'NoneType' object has no attribute 'get_operations'
+cinnamon-session[1012]: WARNING: t+1535,54556s: Detected that screensaver has appeared on the bus
+cinnamon-session[1012]: WARNING: t+2609,41681s: Detected that screensaver has left the bus
+flatpak-update-worker (WARN): cache not valid, refreshing
+cinnamon-session[1012]: WARNING: t+6392,39813s: Detected that screensaver has appeared on the bus
+cinnamon-session[1012]: WARNING: t+6653,91061s: Detected that screensaver has left the bus
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x3600007
+Nemo-Share-Message: 14:37:09.370: Called "net usershare info" but it failed: 'net usershare' returned error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error No such file or directory
+Please ask your system administrator to enable user sharing.
+
+Gjs-Message: 14:37:12.027: JS LOG: [LookingGlass/warning] Invalid or null source id used when attempting to run Mainloop.source_remove()
+overrideDumpStack/global.dump_gjs_stack@/usr/share/cinnamon/js/ui/overrides.js:24:42
+overrideMainloop/Mainloop.source_remove@/usr/share/cinnamon/js/ui/overrides.js:163:20
+destroy@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/appGroup.js:1152:22
+windowRemoved/<@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/appList.js:419:42
+windowRemoved@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/appGroup.js:965:19
+windowRemoved@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/appList.js:385:34
+removeWindowFromAllWorkspaces/<@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/applet.js:239:29
+each@/usr/share/cinnamon/js/misc/util.js:505:25
+removeWindowFromAllWorkspaces@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/applet.js:238:21
+trigger@/usr/share/cinnamon/js/misc/state.js:241:44
+windowRemoved@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/appList.js:364:24
+AppList/<@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/appList.js:57:86
+
+Gjs-Message: 14:38:02.124: JS LOG: [LookingGlass/warning] Invalid or null source id used when attempting to run Mainloop.source_remove()
+overrideDumpStack/global.dump_gjs_stack@/usr/share/cinnamon/js/ui/overrides.js:24:42
+overrideMainloop/Mainloop.source_remove@/usr/share/cinnamon/js/ui/overrides.js:163:20
+destroy@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/appGroup.js:1152:22
+windowRemoved/<@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/appList.js:419:42
+windowRemoved@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/appGroup.js:965:19
+windowRemoved@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/appList.js:385:34
+removeWindowFromAllWorkspaces/<@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/applet.js:239:29
+each@/usr/share/cinnamon/js/misc/util.js:505:25
+removeWindowFromAllWorkspaces@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/applet.js:238:21
+trigger@/usr/share/cinnamon/js/misc/state.js:241:44
+windowRemoved@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/appList.js:364:24
+AppList/<@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/appList.js:57:86
+
+Window manager warning: WM_TRANSIENT_FOR window 0x4808b84 for 0x4808c4b window override-redirect is an override-redirect window and this is not correct according to the standard, so we'll fallback to the first non-override-redirect window 0x4800007.
+/usr/share/cinnamon/cinnamon-desktop-editor/cinnamon-desktop-editor.py:181: Warning: g_object_set_qdata: assertion 'G_IS_OBJECT (object)' failed
+  self.dialog.destroy()
+/usr/share/cinnamon/cinnamon-desktop-editor/cinnamon-desktop-editor.py:181: Warning: instance with invalid (NULL) class pointer
+  self.dialog.destroy()
+/usr/share/cinnamon/cinnamon-desktop-editor/cinnamon-desktop-editor.py:181: Warning: g_signal_handlers_destroy: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+  self.dialog.destroy()
+/usr/share/cinnamon/cinnamon-desktop-editor/cinnamon-desktop-editor.py:181: Warning: g_object_unref: assertion 'old_ref > 0' failed
+  self.dialog.destroy()
+Window manager warning: WM_TRANSIENT_FOR window 0x3c001c9 for 0x3c003c6 window override-redirect is an override-redirect window and this is not correct according to the standard, so we'll fallback to the first non-override-redirect window 0x3c00003.
+Gjs-Message: 15:09:50.186: JS LOG: [LookingGlass/warning] Invalid or null source id used when attempting to run Mainloop.source_remove()
+overrideDumpStack/global.dump_gjs_stack@/usr/share/cinnamon/js/ui/overrides.js:24:42
+overrideMainloop/Mainloop.source_remove@/usr/share/cinnamon/js/ui/overrides.js:163:20
+destroy@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/appGroup.js:1152:22
+windowRemoved/<@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/appList.js:419:42
+windowRemoved@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/appGroup.js:965:19
+windowRemoved@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/appList.js:385:34
+removeWindowFromAllWorkspaces/<@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/applet.js:239:29
+each@/usr/share/cinnamon/js/misc/util.js:505:25
+removeWindowFromAllWorkspaces@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/applet.js:238:21
+trigger@/usr/share/cinnamon/js/misc/state.js:241:44
+windowRemoved@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/appList.js:364:24
+AppList/<@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/appList.js:57:86
+
+Window manager warning: WM_TRANSIENT_FOR window 0x480d804 for 0x480ef28 window override-redirect is an override-redirect window and this is not correct according to the standard, so we'll fallback to the first non-override-redirect window 0x4800007.
+Window manager warning: WM_TRANSIENT_FOR window 0x480d804 for 0x480d950 window override-redirect is an override-redirect window and this is not correct according to the standard, so we'll fallback to the first non-override-redirect window 0x4800007.
+Gjs-Message: 15:21:39.159: JS LOG: [LookingGlass/warning] Invalid or null source id used when attempting to run Mainloop.source_remove()
+overrideDumpStack/global.dump_gjs_stack@/usr/share/cinnamon/js/ui/overrides.js:24:42
+overrideMainloop/Mainloop.source_remove@/usr/share/cinnamon/js/ui/overrides.js:163:20
+destroy@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/appGroup.js:1152:22
+windowRemoved/<@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/appList.js:419:42
+windowRemoved@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/appGroup.js:965:19
+windowRemoved@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/appList.js:385:34
+removeWindowFromAllWorkspaces/<@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/applet.js:239:29
+each@/usr/share/cinnamon/js/misc/util.js:505:25
+removeWindowFromAllWorkspaces@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/applet.js:238:21
+trigger@/usr/share/cinnamon/js/misc/state.js:241:44
+windowRemoved@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/appList.js:364:24
+AppList/<@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/appList.js:57:86
+
+Gjs-Message: 15:23:12.848: JS LOG: [LookingGlass/warning] Invalid or null source id used when attempting to run Mainloop.source_remove()
+overrideDumpStack/global.dump_gjs_stack@/usr/share/cinnamon/js/ui/overrides.js:24:42
+overrideMainloop/Mainloop.source_remove@/usr/share/cinnamon/js/ui/overrides.js:163:20
+destroy@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/appGroup.js:1152:22
+windowRemoved/<@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/appList.js:419:42
+windowRemoved@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/appGroup.js:965:19
+windowRemoved@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/appList.js:385:34
+removeWindowFromAllWorkspaces/<@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/applet.js:239:29
+each@/usr/share/cinnamon/js/misc/util.js:505:25
+removeWindowFromAllWorkspaces@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/applet.js:238:21
+trigger@/usr/share/cinnamon/js/misc/state.js:241:44
+windowRemoved@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/appList.js:364:24
+AppList/<@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/appList.js:57:86
+
+cinnamon-session[1012]: WARNING: t+13352,87875s: Detected that screensaver has appeared on the bus
+cinnamon-session[1012]: WARNING: t+13966,88852s: Detected that screensaver has left the bus
+Window manager warning: WM_TRANSIENT_FOR window 0x420bb51 for 0x420bd70 window override-redirect is an override-redirect window and this is not correct according to the standard, so we'll fallback to the first non-override-redirect window 0x4200007.
+Window manager warning: WM_TRANSIENT_FOR window 0x420d261 for 0x420d302 window override-redirect is an override-redirect window and this is not correct according to the standard, so we'll fallback to the first non-override-redirect window 0x4200007.
+Window manager warning: WM_TRANSIENT_FOR window 0x420bb51 for 0x420bd70 window override-redirect is an override-redirect window and this is not correct according to the standard, so we'll fallback to the first non-override-redirect window 0x4200007.
+Window manager warning: WM_TRANSIENT_FOR window 0x420bb51 for 0x420bd70 window override-redirect is an override-redirect window and this is not correct according to the standard, so we'll fallback to the first non-override-redirect window 0x4200007.
+Window manager warning: WM_TRANSIENT_FOR window 0x420bb51 for 0x420bd70 window override-redirect is an override-redirect window and this is not correct according to the standard, so we'll fallback to the first non-override-redirect window 0x4200007.
+Gjs-Message: 16:46:26.570: JS LOG: [LookingGlass/warning] Invalid or null source id used when attempting to run Mainloop.source_remove()
+overrideDumpStack/global.dump_gjs_stack@/usr/share/cinnamon/js/ui/overrides.js:24:42
+overrideMainloop/Mainloop.source_remove@/usr/share/cinnamon/js/ui/overrides.js:163:20
+destroy@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/appGroup.js:1152:22
+windowRemoved/<@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/appList.js:419:42
+windowRemoved@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/appGroup.js:965:19
+windowRemoved@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/appList.js:385:34
+removeWindowFromAllWorkspaces/<@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/applet.js:239:29
+each@/usr/share/cinnamon/js/misc/util.js:505:25
+removeWindowFromAllWorkspaces@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/applet.js:238:21
+trigger@/usr/share/cinnamon/js/misc/state.js:241:44
+windowRemoved@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/appList.js:364:24
+AppList/<@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/appList.js:57:86
+
+Gjs-Message: 16:47:15.517: JS LOG: [LookingGlass/warning] Invalid or null source id used when attempting to run Mainloop.source_remove()
+overrideDumpStack/global.dump_gjs_stack@/usr/share/cinnamon/js/ui/overrides.js:24:42
+overrideMainloop/Mainloop.source_remove@/usr/share/cinnamon/js/ui/overrides.js:163:20
+destroy@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/appGroup.js:1152:22
+windowRemoved/<@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/appList.js:419:42
+windowRemoved@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/appGroup.js:965:19
+windowRemoved@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/appList.js:385:34
+removeWindowFromAllWorkspaces/<@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/applet.js:239:29
+each@/usr/share/cinnamon/js/misc/util.js:505:25
+removeWindowFromAllWorkspaces@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/applet.js:238:21
+trigger@/usr/share/cinnamon/js/misc/state.js:241:44
+windowRemoved@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/appList.js:364:24
+AppList/<@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/appList.js:57:86
+
+Gjs-Message: 16:48:21.341: JS LOG: [LookingGlass/warning] Invalid or null source id used when attempting to run Mainloop.source_remove()
+overrideDumpStack/global.dump_gjs_stack@/usr/share/cinnamon/js/ui/overrides.js:24:42
+overrideMainloop/Mainloop.source_remove@/usr/share/cinnamon/js/ui/overrides.js:163:20
+destroy@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/appGroup.js:1152:22
+windowRemoved/<@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/appList.js:419:42
+windowRemoved@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/appGroup.js:965:19
+windowRemoved@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/appList.js:385:34
+removeWindowFromAllWorkspaces/<@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/applet.js:239:29
+each@/usr/share/cinnamon/js/misc/util.js:505:25
+removeWindowFromAllWorkspaces@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/applet.js:238:21
+trigger@/usr/share/cinnamon/js/misc/state.js:241:44
+windowRemoved@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/appList.js:364:24
+AppList/<@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/appList.js:57:86
+
+Window manager warning: WM_TRANSIENT_FOR window 0x420bb51 for 0x420bd70 window override-redirect is an override-redirect window and this is not correct according to the standard, so we'll fallback to the first non-override-redirect window 0x4200007.
+Window manager warning: WM_TRANSIENT_FOR window 0x420d261 for 0x420d302 window override-redirect is an override-redirect window and this is not correct according to the standard, so we'll fallback to the first non-override-redirect window 0x4200007.
+Window manager warning: WM_TRANSIENT_FOR window 0x420bb51 for 0x420bd70 window override-redirect is an override-redirect window and this is not correct according to the standard, so we'll fallback to the first non-override-redirect window 0x4200007.
+Gjs-Message: 16:57:53.400: JS LOG: [LookingGlass/warning] Invalid or null source id used when attempting to run Mainloop.source_remove()
+overrideDumpStack/global.dump_gjs_stack@/usr/share/cinnamon/js/ui/overrides.js:24:42
+overrideMainloop/Mainloop.source_remove@/usr/share/cinnamon/js/ui/overrides.js:163:20
+destroy@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/appGroup.js:1152:22
+windowRemoved/<@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/appList.js:419:42
+windowRemoved@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/appGroup.js:965:19
+windowRemoved@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/appList.js:385:34
+removeWindowFromAllWorkspaces/<@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/applet.js:239:29
+each@/usr/share/cinnamon/js/misc/util.js:505:25
+removeWindowFromAllWorkspaces@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/applet.js:238:21
+trigger@/usr/share/cinnamon/js/misc/state.js:241:44
+windowRemoved@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/appList.js:364:24
+AppList/<@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/appList.js:57:86
+
+Window manager warning: WM_TRANSIENT_FOR window 0x420d261 for 0x420d302 window override-redirect is an override-redirect window and this is not correct according to the standard, so we'll fallback to the first non-override-redirect window 0x4200007.
+Window manager warning: WM_TRANSIENT_FOR window 0x420bb51 for 0x420bd70 window override-redirect is an override-redirect window and this is not correct according to the standard, so we'll fallback to the first non-override-redirect window 0x4200007.
+Window manager warning: WM_TRANSIENT_FOR window 0x420bb51 for 0x420bd70 window override-redirect is an override-redirect window and this is not correct according to the standard, so we'll fallback to the first non-override-redirect window 0x4200007.
+Gjs-Message: 17:19:18.636: JS LOG: Reverting display changes
+
+** (csd-color:1281): WARNING **: 17:19:19.237: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:1281): WARNING **: 17:19:19.267: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:1281): WARNING **: 17:19:19.297: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:1281): WARNING **: 17:19:19.337: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:1281): WARNING **: 17:19:19.358: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:1281): WARNING **: 17:19:28.875: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:1281): WARNING **: 17:19:28.876: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:1281): WARNING **: 17:19:28.896: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Gjs-Message: 17:19:31.274: JS LOG: Reverting display changes
+
+** (csd-color:1281): WARNING **: 17:19:31.422: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:1281): WARNING **: 17:19:31.423: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:1281): WARNING **: 17:20:00.349: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:1281): WARNING **: 17:20:00.350: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Gjs-Message: 17:20:03.167: JS LOG: Reverting display changes
+
+** (csd-color:1281): WARNING **: 17:20:03.352: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:1281): WARNING **: 17:20:03.360: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:1281): WARNING **: 17:20:03.370: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:1281): WARNING **: 17:20:31.658: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:1281): WARNING **: 17:20:31.659: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+(cinnamon:1386): Gjs-CRITICAL **: 17:20:31.912: JS ERROR: TypeError: this.button is null
+thumbnailCloseButtonOffset@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/menus.js:520:72
+dispatch@/usr/share/cinnamon/js/misc/state.js:169:30
+set@/usr/share/cinnamon/js/misc/state.js:211:21
+onUIScaleChange@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/applet.js:1007:20
+GroupedWindowListApplet/<@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/applet.js:296:73
+
+
+(nemo-desktop:1440): Gtk-CRITICAL **: 17:20:33.520: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+Gjs-Message: 17:20:34.317: JS LOG: Reverting display changes
+
+(cinnamon:1386): Gjs-CRITICAL **: 17:20:34.534: JS ERROR: TypeError: this.button is null
+thumbnailCloseButtonOffset@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/menus.js:520:72
+dispatch@/usr/share/cinnamon/js/misc/state.js:169:30
+set@/usr/share/cinnamon/js/misc/state.js:211:21
+onUIScaleChange@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/applet.js:1007:20
+GroupedWindowListApplet/<@/usr/share/cinnamon/applets/grouped-window-list@cinnamon.org/applet.js:296:73
+_revert@/usr/share/cinnamon/js/ui/wmGtkDialogs.js:48:18
+_wait_finish@/usr/share/cinnamon/js/ui/wmGtkDialogs.js:42:18
+
+
+** (csd-color:1281): WARNING **: 17:20:34.611: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:1281): WARNING **: 17:20:34.612: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:1281): WARNING **: 17:20:34.635: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:1281): WARNING **: 17:21:03.843: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:1281): WARNING **: 17:21:03.844: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:1281): WARNING **: 17:21:03.868: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Gjs-Message: 17:21:06.027: JS LOG: Reverting display changes
+
+** (csd-color:1281): WARNING **: 17:21:06.252: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:1281): WARNING **: 17:21:06.254: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+** (csd-color:1281): WARNING **: 17:21:06.277: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+cinnamon-session[1012]: WARNING: t+20634,08267s: Detected that screensaver has appeared on the bus
+cinnamon-session[1012]: WARNING: t+21056,97034s: Detected that screensaver has left the bus

@@ -1,0 +1,4 @@
+2022-12-30 16:23:18.178 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/zoltan/django/djangoweb/djangoweb/settings.py","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2022-12-30 16:23:21.710 [info] [perf] Render performance baseline is 22ms
+2022-12-30 16:23:28.068 [error] RequestService#request (browser) - error https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery {"name":"Canceled"}
+2022-12-30 16:23:28.128 [error] RequestService#request (browser) - error https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery {"name":"Canceled"}

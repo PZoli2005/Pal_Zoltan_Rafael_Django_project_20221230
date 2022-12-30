@@ -1,0 +1,49 @@
+2022-12-30 16:23:20.744 [info] Starting worker process with pid 163 (type: fileWatcher, window: 1).
+2022-12-30 16:23:27.926 [info] Getting Manifest... ms-python.python
+2022-12-30 16:23:27.954 [info] Installing extension: ms-python.python
+2022-12-30 16:23:29.255 [info] Getting Manifest... ms-toolsai.jupyter
+2022-12-30 16:23:30.095 [info] Getting Manifest... ms-toolsai.jupyter-keymap
+2022-12-30 16:23:30.709 [info] Getting Manifest... ms-toolsai.jupyter-renderers
+2022-12-30 16:23:31.328 [info] Getting Manifest... ms-toolsai.vscode-jupyter-cell-tags
+2022-12-30 16:23:31.948 [info] Getting Manifest... ms-toolsai.vscode-jupyter-slideshow
+2022-12-30 16:23:32.593 [info] Getting Manifest... ms-python.vscode-pylance
+2022-12-30 16:23:33.211 [info] Getting Manifest... ms-python.isort
+2022-12-30 16:23:33.943 [info] Installing extension: ms-toolsai.jupyter ms-python.python
+2022-12-30 16:23:33.943 [info] Installing extension: ms-toolsai.jupyter-keymap ms-python.python
+2022-12-30 16:23:33.943 [info] Installing extension: ms-toolsai.jupyter-renderers ms-python.python
+2022-12-30 16:23:33.944 [info] Installing extension: ms-toolsai.vscode-jupyter-cell-tags ms-python.python
+2022-12-30 16:23:33.946 [info] Installing extension: ms-toolsai.vscode-jupyter-slideshow ms-python.python
+2022-12-30 16:23:33.947 [info] Installing extension: ms-python.vscode-pylance ms-python.python
+2022-12-30 16:23:33.947 [info] Installing extension: ms-python.isort ms-python.python
+2022-12-30 16:23:36.286 [info] Extracted extension to /home/zoltan/.var/app/com.visualstudio.code/data/vscode/extensions/.37c1d689-75e7-4515-8bf6-35b8619f886d: ms-toolsai.vscode-jupyter-slideshow
+2022-12-30 16:23:36.295 [info] Renamed to /home/zoltan/.var/app/com.visualstudio.code/data/vscode/extensions/ms-toolsai.vscode-jupyter-slideshow-0.1.5
+2022-12-30 16:23:36.303 [info] Extracting completed. ms-toolsai.vscode-jupyter-slideshow
+2022-12-30 16:23:36.493 [info] Extracted extension to /home/zoltan/.var/app/com.visualstudio.code/data/vscode/extensions/.0393a4f8-4c7c-4e70-92ae-9eede7224aad: ms-toolsai.vscode-jupyter-cell-tags
+2022-12-30 16:23:36.519 [info] Renamed to /home/zoltan/.var/app/com.visualstudio.code/data/vscode/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.6
+2022-12-30 16:23:36.523 [info] Extracting completed. ms-toolsai.vscode-jupyter-cell-tags
+2022-12-30 16:23:37.165 [info] Extracted extension to /home/zoltan/.var/app/com.visualstudio.code/data/vscode/extensions/.da21624e-8bf1-45b6-bd74-ae5d39e8bae6: ms-toolsai.jupyter-keymap
+2022-12-30 16:23:37.184 [info] Renamed to /home/zoltan/.var/app/com.visualstudio.code/data/vscode/extensions/ms-toolsai.jupyter-keymap-1.0.0
+2022-12-30 16:23:37.186 [info] Extracting completed. ms-toolsai.jupyter-keymap
+2022-12-30 16:23:41.228 [info] Extracted extension to /home/zoltan/.var/app/com.visualstudio.code/data/vscode/extensions/.cb174690-6381-4128-b158-6f3c2c02e96b: ms-toolsai.jupyter-renderers
+2022-12-30 16:23:41.252 [info] Renamed to /home/zoltan/.var/app/com.visualstudio.code/data/vscode/extensions/ms-toolsai.jupyter-renderers-1.0.12
+2022-12-30 16:23:41.255 [info] Extracting completed. ms-toolsai.jupyter-renderers
+2022-12-30 16:23:44.667 [info] Extracted extension to /home/zoltan/.var/app/com.visualstudio.code/data/vscode/extensions/.3c67e8d1-7e71-48c9-974a-dd1759d4dc2b: ms-toolsai.jupyter
+2022-12-30 16:23:44.718 [info] Renamed to /home/zoltan/.var/app/com.visualstudio.code/data/vscode/extensions/ms-toolsai.jupyter-2022.11.1003412109
+2022-12-30 16:23:44.738 [info] Extracting completed. ms-toolsai.jupyter
+2022-12-30 16:23:45.943 [info] Extracted extension to /home/zoltan/.var/app/com.visualstudio.code/data/vscode/extensions/.37cf03f2-fe74-4903-a564-a24cab80ec8d: ms-python.python
+2022-12-30 16:23:45.970 [info] Renamed to /home/zoltan/.var/app/com.visualstudio.code/data/vscode/extensions/ms-python.python-2022.20.1
+2022-12-30 16:23:45.975 [info] Extracting completed. ms-python.python
+2022-12-30 16:23:49.369 [info] Extracted extension to /home/zoltan/.var/app/com.visualstudio.code/data/vscode/extensions/.d53533e2-a102-41a5-8636-f356066773cf: ms-python.isort
+2022-12-30 16:23:49.397 [info] Renamed to /home/zoltan/.var/app/com.visualstudio.code/data/vscode/extensions/ms-python.isort-2022.8.0
+2022-12-30 16:23:49.402 [info] Extracting completed. ms-python.isort
+2022-12-30 16:24:04.183 [info] Extracted extension to /home/zoltan/.var/app/com.visualstudio.code/data/vscode/extensions/.38d4701a-ce21-404a-b492-ac489b366dc7: ms-python.vscode-pylance
+2022-12-30 16:24:04.216 [info] Renamed to /home/zoltan/.var/app/com.visualstudio.code/data/vscode/extensions/ms-python.vscode-pylance-2022.12.20
+2022-12-30 16:24:04.221 [info] Extracting completed. ms-python.vscode-pylance
+2022-12-30 16:24:04.291 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-slideshow
+2022-12-30 16:24:04.292 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-cell-tags
+2022-12-30 16:24:04.292 [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+2022-12-30 16:24:04.292 [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+2022-12-30 16:24:04.292 [info] Extension installed successfully: ms-toolsai.jupyter
+2022-12-30 16:24:04.292 [info] Extension installed successfully: ms-python.python
+2022-12-30 16:24:04.292 [info] Extension installed successfully: ms-python.isort
+2022-12-30 16:24:04.293 [info] Extension installed successfully: ms-python.vscode-pylance
